@@ -1,0 +1,6 @@
+
+.idea/
+*.pyc
+.env
+headers.json
+output.csv
